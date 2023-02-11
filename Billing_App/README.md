@@ -2,7 +2,7 @@
 
 This is a C programe which will take the product details as input and print the output as a bill. 
 
-For exicuting this code in local follow the steps:
+For exicuting this code in local, follow the steps:
 
    Step-1: Install GCC to your Machine. 
  
@@ -14,7 +14,7 @@ For exicuting this code in local follow the steps:
  
    Step-5: Enter ".\a.out"  This will exicute the code. 
  
-   Step-6: Enter the input details as per the code.
+   Step-6: Enter the input details as per the code, Then you will get the output as a bill. 
  
  
 
