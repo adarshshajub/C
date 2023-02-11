@@ -7,9 +7,13 @@ For exicuting this code in local follow the steps:
  Step-1: Install GCC to your Machine. 
  
  Step-2: Create a folder and put the codes in that folder.
+ 
  Step-3: Open command promt and go to the folder which you created now.
+ 
  Step-4: Enter the command "gcc main.c item.h"  This will compile the code. 
+ 
  Step-5: Enter ".\a.out"  This will exicute the code. 
+ 
  Step-6: Enter the input details as per the code.
  
  
